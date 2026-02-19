@@ -71,7 +71,7 @@ Styling: Custom CSS.
 
 ## 📁 Project Structure
 
-```text
+```
 Music-Recommendation-System/
 │
 ├── app.py              # Streamlit application
